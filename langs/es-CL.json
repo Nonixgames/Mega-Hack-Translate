@@ -598,7 +598,7 @@
   "STATUS/CLOCK/ENABLED": "Reloj",
   "STATUS/CLOCK/DROPDOWN/TWELVE_HOUR": "12 horas",
   "STATUS/FRAME/ENABLED": "Contador de fotogrmas",
-  "STATUS/POSITION/ENABLED": "Posicion",
+  "STATUS/POSITION/ENABLED": "Posición",
   "STATUS/REPLAY_STATE/ENABLED": "Estado de repeticion",
   "REPLAY": "Repeticion",
   "REPLAY/FILE": "",
